@@ -24,11 +24,11 @@
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 
     <script>
-        // const {createApp, ref} = Vue
+        const {createApp, ref} = Vue
         createApp({
             setup() {
                 const name = ref("Sadiq")
-                return {name}
+                const emoji = ref("🙈")
             }
         }).mount("#app")
     </script>

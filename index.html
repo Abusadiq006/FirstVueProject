@@ -24,13 +24,17 @@
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 
     <script>
-        const {createApp, ref} = Vue
+        // const {createApp, ref} = Vue
         createApp({
             setup() {
                 const name = ref("Sadiq")
                 const emoji = ref("🙈")
                 const status_code = ref("500")
                 const status_message = ref("Server is sleeping")
+                const button_text = ref("Bye bye bye")
+                return {
+                    name,
+                }
             }
         }).mount("#app")
     </script>
@@ -38,7 +42,7 @@
     <span>{{emoji}}</span>
     <h1>{{status_code}}</h1>
     <p>{{status_message}}</p>
-    <a href="https://www.scrimba.com" target="_blank">{{button_text}}</a>
+    <a href="https://www.scrimba.com" target="_blank">{{button_tex}}</a>
 
    
         
@@ -48,10 +52,7 @@
         createApp({
             setup(){
                 const emoji = ref("🙈")
-                const status_code = ref("500")
-                const status_message = ref("Server is sleeping")
-                const button_text = ref("Bye bye bye")
-                return {emoji, status_code, status_message, button_text}
+                const status_code = ref
             }
         }).mount("#app")
     </script>    

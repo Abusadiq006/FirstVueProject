@@ -20,7 +20,7 @@
     <footer>
         <p>&copy; 2025</p>
     </footer>
-    </div>
+    
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 
     <script>
@@ -33,17 +33,18 @@
         }).mount("#app")
     </script>
     
-    <span>😁</span>
-    <h1>404</h1>
-    <p>Oops! Looks like you've wandered into the digital wilderness. Dont worry, even the best explorers get lost sometimes.</p>
+    <span>{{emoji}}</span>
+    <h1>{{status_code}}</h1>
+    <p>{{status_message}}</p>
     <a href="https://www.scrimba.com" target="_blank">Go back to safety →→</a>
 
    
-    <script>
+        <script>
         const {createApp, ref} = Vue 
         createApp({
 
         })
-    </script>
+        </script>
+    </div>    
 </body>
 </html>

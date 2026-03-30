@@ -43,7 +43,11 @@
     </div>
     <script>
         const {createApp, ref} = Vue
-        createApp({}).mount("#app")
+        createApp({
+            setup(){
+                const emoji = ref("🙈")
+            }
+        }).mount("#app")
     </script>    
 </body>
 </html>

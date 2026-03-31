@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
   import {ref} from 'vue'
   const name = ref('Sadiq')
   const emoji = ref('✌')
@@ -20,11 +20,15 @@
 </template>
 
 <style scoped>
+body{
+  background: black;
+}
   header span{
     font-size: 3rem;
   }
   main h1{
-    display: block;
+    font-size:2.5rem;
+    margin-top:10px;
   }
   main a{
     color: #428883;

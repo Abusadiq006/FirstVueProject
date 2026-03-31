@@ -19,4 +19,8 @@
   </footer>
 </template>
 
-<style scoped></style>
+<style scoped>
+  header span{
+    font-size: 3rem;
+  }
+</style>

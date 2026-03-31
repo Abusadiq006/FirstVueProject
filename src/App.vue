@@ -13,6 +13,10 @@
     <h1>Hello, {{ name }}!</h1>
     <p>I'am a Software Developer <a href="https://vuejs.org" target="_blank">Vue</a></p>
   </main>
+
+  <footer>
+    <p>&copy; 2026</p>
+  </footer>
 </template>
 
 <style scoped></style>

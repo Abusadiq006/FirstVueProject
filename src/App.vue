@@ -33,4 +33,9 @@ body{
   main a{
     color: #428883;
   }
+  footer{
+    position:fixed;
+    bottom: 0;
+    padding-bottom: 20px;
+  }
 </style>

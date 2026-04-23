@@ -26,4 +26,5 @@
     main h1 {
         display: block;
     }
+    main a {}
 </style>

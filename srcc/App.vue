@@ -35,4 +35,5 @@
         bottom: 0;
         padding-bottom: 20px;
     }
+    footer p {}
 </style>

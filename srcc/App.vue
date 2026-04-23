@@ -11,6 +11,7 @@
 
 <main>
     <h1>Hello, {{name}}!</h1>
+    <p></p>
 </main>
 </template>
 

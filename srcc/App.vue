@@ -15,7 +15,7 @@
 </main>
 
 <footer>
-    <p></p>
+    <p>&copy</p>
 </footer>
 </template>
 

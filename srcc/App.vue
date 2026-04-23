@@ -20,5 +20,7 @@
 </template>
 
 <style scoped>
-    header span {}
+    header span {
+        font-size: 3rem;
+    }
 </style>

@@ -9,7 +9,9 @@
         <span>{{emoji}}</span>
     </header>
 
-<main></main>
+<main>
+    <h1></h1>
+</main>
 </template>
 
 <style scoped>

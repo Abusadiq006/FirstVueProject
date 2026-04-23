@@ -24,6 +24,6 @@
         font-size: 3rem;
     }
     main h1 {
-        
+        display: block;
     }
 </style>

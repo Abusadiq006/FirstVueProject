@@ -18,9 +18,7 @@
 </template>
 
 <style scoped>
-    header span {
-        font-size: 3rem;
-    }
+   
     main h1 {
         display: block;
     }

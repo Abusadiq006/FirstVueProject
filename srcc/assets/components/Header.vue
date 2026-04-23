@@ -10,4 +10,7 @@
 </template>
 
 <style scoped>
+ header span {
+        font-size: 3rem;
+    }
 </style>

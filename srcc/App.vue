@@ -2,6 +2,7 @@
     import {ref} from 'vue'
     const name = ref('Sadiq')
     const emoji = ref('😎')
+    const year = ref('2014')
 </script>
 
 <template>

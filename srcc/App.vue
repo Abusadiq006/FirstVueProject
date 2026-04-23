@@ -8,6 +8,8 @@
     <header>
         <span>{{emoji}}</span>
     </header>
+
+<main></main>
 </template>
 
 <style scoped>

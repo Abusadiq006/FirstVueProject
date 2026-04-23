@@ -35,5 +35,7 @@
         bottom: 0;
         padding-bottom: 20px;
     }
-    footer p {}
+    footer p {
+        color: blue;
+    }
 </style>

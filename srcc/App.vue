@@ -10,7 +10,7 @@
     </header>
 
 <main>
-    <h1>Hello</h1>
+    <h1>Hello, {{name}}!</h1>
 </main>
 </template>
 

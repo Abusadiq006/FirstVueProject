@@ -5,7 +5,9 @@
 </script>
 
 <template>
-    <header></header>
+    <header>
+        <span></span>
+    </header>
 </template>
 
 <style scoped>

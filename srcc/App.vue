@@ -29,5 +29,7 @@
     main a {
         color: #428883;
     }
-    footer {}
+    footer {
+        position: fixed;
+    }
 </style>

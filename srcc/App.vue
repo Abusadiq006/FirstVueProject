@@ -14,7 +14,9 @@
     <p>I'm about to learn <a href="https://vuejs.org/" target="_blank">Maitashi</a>!</p>
 </main>
 
-<footer></footer>
+<footer>
+    <p></p>
+</footer>
 </template>
 
 <style scoped>

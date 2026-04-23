@@ -29,4 +29,5 @@
     main a {
         color: #428883;
     }
+    footer {}
 </style>

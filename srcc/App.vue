@@ -6,7 +6,7 @@
 
 <template>
     <header>
-        <span></span>
+        <span>{{emoji}}</span>
     </header>
 </template>
 

@@ -20,4 +20,5 @@
 </template>
 
 <style scoped>
+    header span {}
 </style>

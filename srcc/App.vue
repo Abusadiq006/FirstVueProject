@@ -1,14 +1,11 @@
 <script setup>
     import {ref} from 'vue'
     const name = ref('Sadiq')
-    const emoji = ref('😎')
     const year = ref('2014')
 </script>
 
 <template>
-    <header>
-        <span>{{emoji}}</span>
-    </header>
+    
 
 <main>
     <h1>Hello, {{name}}!</h1>

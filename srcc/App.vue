@@ -26,5 +26,7 @@
     main h1 {
         display: block;
     }
-    main a {}
+    main a {
+        color: #428883;
+    }
 </style>

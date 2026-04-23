@@ -16,7 +16,7 @@
 </main>
 
 <footer>
-    <p>&copy</p>
+    <p>&copy; {{year}}</p>
 </footer>
 </template>
 

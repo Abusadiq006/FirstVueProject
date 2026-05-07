@@ -1,4 +1,6 @@
 <script setup>
+
+    const copyright_year = ref('2024')
 </script>
 
 <template>

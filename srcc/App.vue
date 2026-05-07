@@ -11,9 +11,7 @@
 
 
 
-<footer>
-    <p>&copy; {{year}}</p>
-</footer>
+
 </template>
 
 <style scoped>

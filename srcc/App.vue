@@ -18,12 +18,7 @@
 
 <style scoped>
    
-    main h1 {
-        display: block;
-    }
-    main a {
-        color: #428883;
-    }
+   
     footer {
         position: fixed;
         bottom: 0;

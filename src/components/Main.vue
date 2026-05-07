@@ -1,4 +1,6 @@
 <script setup>
+
+ const name = ref('Sadiq')
 </script>
 
 <template>

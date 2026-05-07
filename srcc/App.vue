@@ -1,6 +1,6 @@
 <script setup>
     import {ref} from 'vue'
-    const name = ref('Sadiq')
+   
     const year = ref('2014')
 
     import Header from '@/components/Header.vue'
